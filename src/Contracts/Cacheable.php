@@ -1,8 +1,8 @@
 <?php
 
-namespace Vgplay\LaravelCachingModel\Contracts;
+namespace Hacoidev\CachingModel\Contracts;
 
-use \Vgplay\LaravelCachingModel\Contracts\BuilderInterface;
+use \Hacoidev\CachingModel\Contracts\BuilderInterface;
 
 interface Cacheable
 {

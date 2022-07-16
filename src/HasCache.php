@@ -1,11 +1,11 @@
 <?php
 
-namespace Vgplay\LaravelCachingModel;
+namespace Hacoidev\CachingModel;
 
 use Illuminate\Support\Facades\Cache;
 use Illuminate\Support\Str;
-use \Vgplay\LaravelCachingModel\Contracts\BuilderInterface;
-use Vgplay\LaravelCachingModel\Contracts\Cacheable;
+use \Hacoidev\CachingModel\Contracts\BuilderInterface;
+use Hacoidev\CachingModel\Contracts\Cacheable;
 
 trait HasCache
 {

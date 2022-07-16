@@ -1,13 +1,13 @@
 <?php
 
-namespace Vgplay\LaravelCachingModel;
+namespace Hacoidev\CachingModel;
 
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Cache;
-use \Vgplay\LaravelCachingModel\Contracts\BuilderInterface;
+use \Hacoidev\CachingModel\Contracts\BuilderInterface;
 use Closure;
-use \Vgplay\LaravelCachingModel\Contracts\Cacheable;
-use \Vgplay\LaravelCachingModel\Exceptions\UnsupportedModelException;
+use \Hacoidev\CachingModel\Contracts\Cacheable;
+use \Hacoidev\CachingModel\Exceptions\UnsupportedModelException;
 
 class CacheQueryBuilder implements BuilderInterface
 {

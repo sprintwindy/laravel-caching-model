@@ -1,6 +1,6 @@
 <?php
 
-namespace Vgplay\LaravelCachingModel\Exceptions;
+namespace Hacoidev\CachingModel\Exceptions;
 
 use Exception;
 

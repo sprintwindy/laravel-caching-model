@@ -9,7 +9,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Vgplay\\LaravelCachingModel\\": "src/"
+            "Hacoidev\\CachingModel\\": "src/"
         }
     },
     "authors": [

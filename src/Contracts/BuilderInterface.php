@@ -1,6 +1,6 @@
 <?php
 
-namespace Vgplay\LaravelCachingModel\Contracts;
+namespace Hacoidev\CachingModel\Contracts;
 
 use Illuminate\Support\Collection;
 use Closure;

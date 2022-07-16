@@ -5,8 +5,8 @@
 # Usage
 1. Implement Cacheable interface then use HasCache trait:
 ```php
-use Vgplay\LaravelCachingModel\Contracts\Cacheable;
-use Vgplay\LaravelCachingModel\HasCache;
+use Hacoidev\CachingModel\Contracts\Cacheable;
+use Hacoidev\CachingModel\HasCache;
 
 class Setting extends Model implements Cacheable
 {
